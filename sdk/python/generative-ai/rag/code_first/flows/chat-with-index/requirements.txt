@@ -6,3 +6,4 @@ python-dotenv
 tiktoken
 promptflow[azure]
 promptflow-tools
+azure-identity>=1.16.1 # not directly required, pinned by Snyk to avoid a vulnerability
