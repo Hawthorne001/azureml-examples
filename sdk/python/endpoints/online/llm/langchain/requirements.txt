@@ -1,6 +1,6 @@
 azure-ai-ml==1.5.0
 azure-core==1.26.4
-azure-identity==1.13.0b3
+azure-identity==1.16.1
 azureml-inference-server-http
 azure-keyvault-secrets
 azure-mgmt-keyvault
