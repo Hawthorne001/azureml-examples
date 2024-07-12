@@ -7,3 +7,9 @@ azure-mgmt-keyvault
 azure-ai-ml==1.5.0
 pyyaml
 azure-cli
+azure-identity>=1.16.1 # not directly required, pinned by Snyk to avoid a vulnerability
+msal>=1.24.1 # not directly required, pinned by Snyk to avoid a vulnerability
+pydash>=6.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
