@@ -8,3 +8,4 @@ ml-wrappers
 plotly
 nbformat
 responsibleai==0.29.0
+tornado>=6.5 # not directly required, pinned by Snyk to avoid a vulnerability
